@@ -1,0 +1,12 @@
+# ACO-TSP GUI — Dependencias
+# Instalar con: pip install -r requirements.txt
+
+# Obligatorio
+numpy>=1.24.0
+
+# Opcional: acelera la construcción de tours con compilación JIT
+# numba>=0.58.0
+
+# Opcional: soporte CUDA (requiere CUDA Toolkit instalado)
+# numba>=0.58.0
+# cuda-python>=12.0.0
